@@ -6,7 +6,7 @@ type: stay-fresh
 
 ### Stay Fresh
 
-<img src="https://after-school-assets.s3.amazonaws.com/toothpaste.jpg" width="300px" align="right" hspace="10">YO How can I stay so minty fresh, you ask? Here's how:
+<img src="https://after-school-assets.s3.amazonaws.com/toothpaste.jpg" width="300px" align="right" hspace="10">How can I stay so minty fresh, you ask? Here's how:
 
 + PRACTICE! Use object orientation to solve the problems at [CodeWars](http://www.codewars.com) and [Project Euler](https://projecteuler.net/).
 
