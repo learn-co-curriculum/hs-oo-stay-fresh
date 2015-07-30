@@ -1,8 +1,4 @@
----
-tags: oo, kids
-language: ruby
-type: stay-fresh
----
+
 
 ### Stay Fresh
 
