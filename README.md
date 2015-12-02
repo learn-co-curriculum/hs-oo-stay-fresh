@@ -11,3 +11,5 @@
 + BUILD! Pick real world objects and systems and build ruby models that simulate them!
 
 + Brush your teeth.
+
+<a href='https://learn.co/lessons/hs-oo-stay-fresh' data-visibility='hidden'>View this lesson on Learn.co</a>
